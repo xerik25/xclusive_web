@@ -26,3 +26,13 @@
   min-width: 100%;
   height: 500px;
 }
+#myCarousel,
+.carousel-inner .item,
+#slide1,
+#slide2,
+#slide3 {
+  height: 800px;
+}
+#myCarousel {
+  top:-71px;
+}

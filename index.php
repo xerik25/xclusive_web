@@ -10,7 +10,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-        <div id="slide1"></div> 
+        <div id="slide1" class="carousel-image"></div> 
           <!--<img src="/assets/images/drinks.jpg" alt="First slide">-->
           <div class="container">
             <div class="carousel-caption">
@@ -21,7 +21,7 @@
           </div>
         </div>
         <div class="item">
-        <div id="slide2"></div> 
+        <div id="slide2" class="carousel-image"></div> 
           <!--<img src="/assets/images/mixingitup.jpg" alt="Second slide">-->
           <div class="container">
             <div class="carousel-caption">
@@ -32,7 +32,7 @@
           </div>
         </div>
         <div class="item">
-        <div id="slide3"></div> 
+        <div id="slide3" class="carousel-image"></div> 
           <!--<img src="/assets/images/cody.jpg" alt="Third slide">-->
           <div class="container">
             <div class="carousel-caption">

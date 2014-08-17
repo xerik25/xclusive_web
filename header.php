@@ -23,8 +23,11 @@
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
                 <li class="active"><a href="#">Home</a></li>
-                <li><a href="#about">About</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Bar Services</a></li>
+                <li><a href="#contact">Bartender for Hire</a></li>
                 <li><a href="#contact">Contact</a></li>
+<!--uncomment if we need dropdown menu
                 <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
                   <ul class="dropdown-menu" role="menu">
@@ -37,6 +40,7 @@
                     <li><a href="#">One more separated link</a></li>
                   </ul>
                 </li>
+uncomment-->
               </ul>
             </div>
           </div>

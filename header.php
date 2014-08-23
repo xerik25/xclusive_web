@@ -18,7 +18,8 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">Xclusive Event Services</a>
+              <!--<a class="navbar-brand" href="#">Xclusive Event Services</a>-->
+              <img src="/assets/images/Xclusive_logo.png">
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">

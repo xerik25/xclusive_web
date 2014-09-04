@@ -36,3 +36,19 @@
 #myCarousel {
   top:-71px;
 }
+.greenBar {
+  position: absolute;
+  bottom: 0px;
+  z-index: 16;
+  width: 100%;
+  text-align: center;
+  list-style: none;
+}
+#footer{
+  background-color: #c0dc84;
+}
+.btn-primary{
+  color: #99311E;
+  background-color: #9ccc3c;
+  border-color: #f6df16;
+}

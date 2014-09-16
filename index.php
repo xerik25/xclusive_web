@@ -48,5 +48,150 @@
       <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
     </div><!-- /.carousel -->
 
+    <! -- Meet the Team -->
+<div class="full-width-box bottom-padding cm-padding-bottom-36">
+    <div class="fwb-bg fwb-fixed band-5"><div class="overlay"></div></div>
+    
+    <div class="container">
+    <div class="title-box title-white">
+      <h1 class="title no-top-padding">Meet the Team</h1>
+    </div>
+    
+    <div class="row text-center">
+      <div class="col-sm-3 col-md-3 rotation employee">
+      <div class="default">
+        <div class="image">
+        <img src="assets/img/content/cody_profile.jpg" alt="undefined" title="" width="270" height="270">
+        </div>
+        <div class="description">
+        <div class="vertical">
+          <h3 class="name">Cody Lathrop</h3>
+          <div class="role">Owner</div> 
+        </div>
+        </div>
+      </div>
+      <div class="employee-hover">
+        <h3 class="name">Cody Lathrop</h3>
+        <div class="role">Owner</div>
+        <div class="image">
+        <img src="assets/img/content/cody_profile.jpg" alt="" title="" width="270" height="270">
+        </div>
+        <div>
+        <p>He is like a really cool dude, that knows some stuff...</p>
+        <div class="contact"><b>Email: </b>cody.lathrop@xclusivebartending.com</div>
+        <div class="contact"><b>Phone: </b>316 xxx xxxx</div>
+        </div>
+        <div class="social">
+        <div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-facebook" href="#"></a></div>
+        <div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-twitter" href="#"></a></div>
+        <div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-gplus" href="#"></a></div>
+        <div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-linkedin" href="#"></a></div>
+        </div>
+      </div><!-- .employee-hover -->
+      </div><!-- .employee 
+      
+      --><div class="col-sm-3 col-md-3 rotation employee">
+      <div class="default">
+        <div class="image">
+        <img src="assets/img/content/crystal_profile.jpg" alt="" title="" width="270" height="270">
+        </div>
+        <div class="description">
+        <div class="vertical">
+          <h3 class="name">Crystal Mcdonald</h3>
+          <div class="role">Owner</div>  
+        </div>
+        </div>
+      </div>
+      <div class="employee-hover">
+        <h3 class="name">Crystal Mcdonald</h3>
+        <div class="role">Owner</div>
+        <div class="image">
+        <img src="assets/img/content/crystal_profile.jpg" alt="" title="" width="270" height="270">
+        </div>
+        <div>
+        <p>Crystal...just killin it!</p>
+        <div class="contact"><b>Email: </b>crystal.lathrop@xclusivebartending.com</div>
+        <div class="contact"><b>Phone: </b>316 xxx xxxx</div>
+        </div>
+        <div class="social">
+        <div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-facebook" href="#"></a></div>
+        <div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-twitter" href="#"></a></div>
+        <div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-gplus" href="#"></a></div>
+        <div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-linkedin" href="#"></a></div>
+        </div>
+      </div><!-- .employee-hover -->
+      </div><!-- .employee
+      
+      --><div class="col-sm-3 col-md-3 rotation employee">
+      <div class="default">
+        <div class="image">
+        <img src="assets/img/content/team-3.jpg" alt="undefined" title="" width="270" height="270">
+        </div>
+        <div class="description">
+        <div class="vertical">
+          <h3 class="name">Aharon Hoopes</h3>
+          <div class="role">Manager</div>  
+        </div>
+        </div>
+      </div>
+      <div class="employee-hover">
+        <h3 class="name">Aharon Hoopes</h3>
+        <div class="role">Manager</div>
+        <div class="image">
+        <img src="assets/img/content/team-3.jpg" alt="" title="" width="270" height="270">
+        </div>
+        <div>
+        <p>She manages the awesome bartenders!</p>
+        <div class="contact"><b>Email: </b>aharon@xclusivebartending.com</div>
+        <div class="contact"><b>Phone: </b>316 xxx xxxx</div>
+        </div>
+        <div class="social">
+        <div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-facebook" href="#"></a></div>
+        <div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-twitter" href="#"></a></div>
+        <div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-gplus" href="#"></a></div>
+        <div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-linkedin" href="#"></a></div>
+        </div>
+      </div><!-- .employee-hover -->
+      </div><!-- .employee
+      
+      --><div class="col-sm-3 col-md-3 rotation employee">
+      <div class="default">
+        <div class="image">
+        <img src="assets/img/content/team-4.jpg" alt="undefined" title="" width="270" height="270">
+        </div>
+        <div class="description">
+        <div class="vertical">
+          <h3 class="name">Jayme Gott</h3>
+          <div class="role">Caterting</div> 
+        </div>
+        </div>
+      </div>
+      <div class="employee-hover">
+        <h3 class="name">Jayme Gott</h3>
+        <div class="role">Caterting</div>
+        <div class="image">
+        <img src="assets/img/content/team-4.jpg" alt="" title="" width="270" height="270">
+        </div>
+        <div>
+        <p>Catering services and team mom!</p>
+        <div class="contact"><b>Email: </b>jayme@xclusivebartending.com</div>
+        <div class="contact"><b>Phone: </b>316 xxx xxxx</div>
+        </div>
+        <div class="social">
+        <div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-facebook" href="#"></a></div>
+        <div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-twitter" href="#"></a></div>
+        <div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-gplus" href="#"></a></div>
+        <div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-linkedin" href="#"></a></div>
+        </div>
+      </div><!-- .employee-hover -->
+      </div><!-- .employee -->
+    </div>
+    </div>
+  </div>
+
+    <!-- Twitter Feed -->
+    <a class="twitter-timeline" href="https://twitter.com/Xevents" data-widget-id="508055729366790144">Tweets by @Xevents</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 
 <?php include('footer.php'); ?>

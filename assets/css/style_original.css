@@ -1,3 +1,6 @@
+body {
+  background-image: url('/assets/img/content/dark_fish_skin.png');
+}
 
 /* Declare heights because of positioning of img element */
 .carousel .item {
@@ -5,17 +8,17 @@
   background-color: #777;
 }
 #slide1 {
-  background: url(/assets/images/drinks.jpg) no-repeat top center;
+  background: url(/assets/img/content/drinks.jpg) no-repeat top center;
   background-size: cover;
   background-position: 50% 5%; 
 }
 #slide2 {
-  background: url(/assets/images/mixingitup.jpg) no-repeat top center;
+  background: url(/assets/img/content/mixingitup.jpg) no-repeat top center;
   background-size: cover;
   background-position: 50% 5%; 
 }
 #slide3 {
-  background: url(/assets/images/cody.jpg) no-repeat top center;
+  background: url(/assets/img/content/cody.jpg) no-repeat top center;
   background-size: cover;
   background-position: 50% 5%; 
 }

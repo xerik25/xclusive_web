@@ -1,7 +1,5 @@
 <html>
   <head>
-    <!--<link href="assets/bower/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">-->
-    <link href="assets/style.css" rel="stylesheet">
   <meta charset="utf-8">
   <title>Extended Header \ Progressive — Responsive Multipurpose HTML Template</title>
   <meta name="keywords" content="HTML5 Template">
@@ -52,6 +50,10 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <link rel='stylesheet' href="css/ie/ie8.css">
   <![endif]-->
+
+  <!-- Custom CSS -->
+  <link href="assets/css/style_original.css" rel="stylesheet">
+
   </head>
   <body>
     <!-- NAVBAR
@@ -69,7 +71,7 @@
                 <span class="icon-bar"></span>
               </button>
               <!--<a class="navbar-brand" href="#">Xclusive Event Services</a>-->
-              <img src="/assets/images/Xclusive_logo.png">
+              <img src="/assets/img/content/Xclusive_logo.png">
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">

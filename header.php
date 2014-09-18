@@ -32,6 +32,9 @@
   <link rel="stylesheet" href="assets/css/datepicker.css">
   <link rel="stylesheet" href="assets/css/jquery.scrollbar.css">
   
+  <!-- Custom CSS -->
+  <link href="assets/css/style_original.css" rel="stylesheet">
+
   <!-- Theme CSS -->
   <link rel="stylesheet" href="assets/css/style.css">
 
@@ -50,9 +53,6 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <link rel='stylesheet' href="css/ie/ie8.css">
   <![endif]-->
-
-  <!-- Custom CSS -->
-  <link href="assets/css/style_original.css" rel="stylesheet">
 
   </head>
   <body>

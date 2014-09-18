@@ -11027,7 +11027,7 @@ a.big-icon:hover {
 *******************************************************************************/
 #footer {
   color: #7f7f7f;
-  margin: -310px 0 0 0;
+  /*margin: -310px 0 0 0;*/
   overflow-x: hidden;
 }
 #footer.footer-two {
